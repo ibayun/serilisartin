@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: ibayun-serilization-pip
+Version: 0.0.10
+Summary: simple serialization and deserialization
+Home-page: https://github.com/ibayun/serilisartin.git
+Author: Ivan Karnyuenka
+Author-email: i.korniyenko@list.ru
+License: UNKNOWN
+Description:    Simple serialisation for my HW.
+           This package create new file and save 
+        serialisation data. 
+           You create second file "tmp.txt", and 
+        contained your data for deserialization.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
